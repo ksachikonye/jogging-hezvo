@@ -1,0 +1,20 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  /*background: #24282c;*/
+  background: #000;
+}
+#menu {
+  position: fixed;
+  bottom: 30px;
+  left: 30px;
+}
+#menu label {
+  display: block;
+  color: white;
+  text-decoration: none;
+  opacity: 0.65;
+  margin-top: 5px;
+}
